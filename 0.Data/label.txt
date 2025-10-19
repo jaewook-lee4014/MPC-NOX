@@ -1,0 +1,56 @@
+1. Main Steam Flow
+2. Main Steam Pressure
+3. AIR FLOW
+4. AIR & FUEL GAS PRESSURE
+5. Instrument Air Pressure
+6. BOILER DRUM LEVEL
+7. BOILER DRUM PRESS
+8. Air Control Valve Opening (%)
+9. T1
+10. T2
+11. T3
+12. P1
+13. P2
+14. P3
+15. UREA FLOW (L/H)
+16. UREA FLOW (T/H)
+17. FEEDER
+18. STOKER
+19. Damper Open (%)
+20. Duct_Pressure (mmH2O)
+21. Gas_Temp_In (℃)
+22. Gas_Temp_Out (℃)
+23. Lower Heating Value (kcal/kg)
+24. CO_Furnace (ppm)
+25. Bunker_AirFlow (Nm³/h)
+26. Bunker_Damper_Open (%)
+27. Bunker_Air_Temp (℃)
+28. Bunker_Air_Pressure (mmH2O)
+29. SAH_Load (%)
+30. SAH_Temp_Out (℃)
+31. SecAir_Pressure (mmH2O)
+32. MainSteamFlow_OUT (%)
+33. MainSteamFlow_PV (T/h)
+34.
+35.
+36.
+37.
+38.
+39.
+40. NOx
+41. CO
+42. DUST (MGm)
+43. NOx (ppm)
+44. CO_TMS (ppm)
+45. SOx (ppm)
+46. O2 (%)
+47. HCL (ppm)
+48. 
+49.
+50.
+51.
+52.
+53.
+54.
+55.
+56.
